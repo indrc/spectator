@@ -16,7 +16,7 @@ at unpredictable intervals if someone sets the time. On many systems
 [ntpd](https://en.wikipedia.org/wiki/Ntpd) will be constantly keeping the time
 synced up with an authoritative source.
 
-With spectator, the clock is typically accessed via the [regstry](registry.md).
+With spectator, the clock is typically accessed via the [registry](registry.md).
 Example of usage:
 
 ```java
